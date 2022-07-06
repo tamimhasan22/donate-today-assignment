@@ -1,0 +1,68 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px
+}
+
+.section-wrapper {
+    position: relative;
+
+}
+
+
+.first-part {
+    background-image: url(images/donation12blur.jpg);
+    background-repeat: no-repeat;
+
+    width: 1440px;
+    height: 410px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.donate-today {
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+
+.donate-today p {
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.donate-today h1 {
+    margin: 0px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(184, 8, 131), tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+
+.second-part {
+    text-align: center;
+    color: black;
+    border: 2px solid black;
+}
+
+.donate-now {
+    background-color: aliceblue;
+    text-align: center;
+    color: black;
+}
+
+.black {
+    color: black;
+}
