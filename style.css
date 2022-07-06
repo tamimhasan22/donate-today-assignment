@@ -187,3 +187,18 @@ img {
 #edu {
     background-color: #f7caca;
 }
+
+.last-part {
+    margin-top: 100px;
+    height: 150px;
+    text-align: center;
+    background-color: #0B0D17;
+    color: white;
+}
+
+.last-part h3 {
+    color: red;
+    margin: 40px;
+    padding-top: 35px;
+
+}
